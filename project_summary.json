@@ -1,0 +1,16 @@
+{
+  "project_name": "enhanced_cs.CL_2508.10860v1_From_Black_Box_to_Transparency_Enhancing_Automate",
+  "project_type": "nlp",
+  "completion_time": "2025-08-16T20:52:13.015937",
+  "total_tasks": 7,
+  "completed_tasks": 7,
+  "failed_tasks": 0,
+  "critical_errors": 0,
+  "agents_used": [
+    "coder1",
+    "coder2",
+    "coder3",
+    "coder4"
+  ],
+  "project_directory": "artifacts/projects/enhanced_cs.CL_2508.10860v1_From_Black_Box_to_Transparency_Enhancing_Automate"
+}
