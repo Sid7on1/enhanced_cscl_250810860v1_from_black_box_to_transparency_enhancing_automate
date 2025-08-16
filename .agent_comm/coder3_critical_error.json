@@ -1,0 +1,8 @@
+{
+  "from": "coder3",
+  "to": "manager",
+  "type": "critical_error",
+  "message": "Failed to generate code for language_model.py after 3 attempts",
+  "details": {},
+  "timestamp": "2025-08-16T20:51:27.539725"
+}
