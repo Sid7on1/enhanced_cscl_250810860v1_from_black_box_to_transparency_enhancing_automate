@@ -1,0 +1,35 @@
+# This is a requirements file for the project "enhanced_cs.CL_2508.10860v1_From_Black_Box_to_Transparency_Enhancing_Automate"
+
+# Core dependencies
+torch==1.13.1
+numpy==1.24.2
+pandas==1.5.2
+
+# Additional dependencies
+scikit-learn==1.0.2
+nltk==3.6.6
+seaborn==0.11.2
+matplotlib==3.5.1
+
+# Data processing
+tqdm==4.64.0
+
+# Model training and evaluation
+tensorboard==2.9.1
+ray[tune]==1.14.0
+
+# Optional dependencies (depending on deployment environment)
+tensorflow==2.9.1
+keras==2.9.0
+
+# Testing and linting
+pytest==7.1.2
+flake8==4.0.1
+
+# Documentation
+sphinx==4.5.0
+sphinx-rtd-theme==1.0.0
+
+# Please ensure that all dependencies are compatible and there are no conflicts.
+# You may need to specify specific versions for some packages to ensure compatibility.
+# This file should be updated as the project evolves and new dependencies are required.
